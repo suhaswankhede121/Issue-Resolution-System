@@ -10,7 +10,8 @@ your issue directly received by admin who is belongs to particular e-commerce co
 <br><br><br>
 Front-End: HTML5/CSS
           Bootsrap 
-          JS <br><br><br>
+          JS 
+          <br><br><br>
 Back-End: Php Backed
           Mysql
 Server: phpMyAdmin
